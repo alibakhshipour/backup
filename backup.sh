@@ -145,7 +145,7 @@ exit 1
 fi
 
 export IP=$(hostname -I)
-caption="${caption}\n\n${ACLover}\n<code>${IP}</code>\nCreated by @AC_Lover - https://github.com/AC-Lover/backup"
+caption="${caption}\n\n${ACLover}\n<code>${IP}</code>\nCreated by @AC_Lover - https://github.com/alibakhshipour/backup/"
 
 # install zip
 # نصب پکیج zip
